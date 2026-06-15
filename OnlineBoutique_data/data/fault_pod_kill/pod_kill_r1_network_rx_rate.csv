@@ -1,0 +1,16 @@
+timestamp,value,beta_kubernetes_io_arch,beta_kubernetes_io_os,id,instance,interface,job,kubernetes_io_arch,kubernetes_io_hostname,kubernetes_io_os,minikube_k8s_io_commit,minikube_k8s_io_name,minikube_k8s_io_primary,minikube_k8s_io_updated_at,minikube_k8s_io_version
+1780607718,189.0496168010351,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607733,201.80037866533948,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607748,188.33290489817927,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607763,644.3050052267411,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607778,604.6951042859276,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607793,651.8533109690189,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607808,615.4127491796525,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607823,206.8585114589295,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607838,196.43087067957302,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607853,192.62343651504594,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607868,184.00466474237749,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607883,312.41737007558487,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607898,300.2822637455264,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607913,310.1105826982982,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1
+1780607928,299.93274452653606,amd64,linux,/,minikube,eth0,kubernetes-cadvisor,amd64,minikube,linux,c93a4cb9311efc66b90d33ea03f75f2c4120e9b0,minikube,true,2026_05_10T19_19_17_0700,v1.38.1

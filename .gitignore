@@ -1,0 +1,62 @@
+# ============================================
+# SGmVRNN 论文复现实验 - .gitignore
+# ============================================
+
+# ---------- 生成的训练产物 ----------
+# 模型检查点（可重新训练生成）
+SGmVRNN/model/
+SGmVRNN/log_tester/
+SGmVRNN/log_trainer/
+SGmVRNN/logs/
+SGmVRNN/eval_results/
+
+# 基线模型产物
+SGmVRNN/baselines/log_tester/
+SGmVRNN/baselines/logs/
+SGmVRNN/baselines/models/
+SGmVRNN/baselines/eval_results/
+SGmVRNN/baselines/baselines_new/log_tester/
+SGmVRNN/baselines/baselines_new/models/
+SGmVRNN/baselines/baselines_new/eval_results/
+
+# 根级别训练日志
+/logs/
+
+# ---------- 大型数据文件 ----------
+# BGL 完整日志（709MB，超过 GitHub 100MB 限制；保留 BGL_2k.log 作为采样）
+BGL/*.log
+
+# ---------- 预处理生成的数据 ----------
+# processed_seq 由 ob_etl/preprocess.py 从原始 CSV 生成，可重新运行预处理获得
+OnlineBoutique_data/processed_seq_v2/
+OnlineBoutique_data/processed_seq_v2_T10/
+OnlineBoutique_data/processed_v2/
+
+# ---------- Python ----------
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ---------- 冗余压缩包（已解压的目录保留） ----------
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# ---------- IDE / 编辑器 ----------
+.vscode/
+.idea/
+.claude/
+
+# ---------- 操作系统文件 ----------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---------- 虚拟环境 ----------
+venv/
+.env/
+.venv/
