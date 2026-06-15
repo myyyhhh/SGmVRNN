@@ -1,5 +1,7 @@
 # SGmVRNN 论文复现实验
 
+这是软件测试与维护课程的复现论文实验
+
 > **SGmVRNN**: Switching Gaussian-mixture Variational Recurrent Neural Network for Anomaly Detection
 >
 > 论文发表于 **IEEE INFOCOM 2022**
@@ -312,24 +314,3 @@ python compare_results.py
 | 正常服务 | 无故障 | N/A（无异常样本） |
 
 > 详细实验结果请运行 `evaluate_all.py --plot` 生成评估报告和可视化图表。
-
----
-
-## 引用
-
-```bibtex
-@inproceedings{li2022sgmvrnn,
-  title={SGmVRNN: A Switching Gaussian-mixture Variational Recurrent Neural Network for Anomaly Detection in KPI Time Series},
-  author={Li, Ming and Li, Zhu and Yin, Jianmin and others},
-  booktitle={IEEE INFOCOM 2022 - IEEE Conference on Computer Communications},
-  year={2022},
-  pages={1-10},
-  doi={10.1109/INFOCOM48880.2022.9796885}
-}
-```
-
----
-
-## 许可证
-
-本项目遵循 [LICENSE](SGmVRNN/LICENSE) 文件中的许可证条款。原论文代码基于其仓库的许可协议发布。
